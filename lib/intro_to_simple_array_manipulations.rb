@@ -32,7 +32,11 @@ end
 def using_insert(array,element2)
   array.insert(4,element2)
 end
-  
+ 
+def using_uniq(array)
+  array.using_uniq
+end
+
 
 
   
