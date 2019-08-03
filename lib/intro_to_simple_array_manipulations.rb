@@ -46,7 +46,7 @@ def using_delete(array,string)
 end
 
 def using_delete_at(array,integer)
-  delete(integer)
+  array.splice(integer)
 end
 
   
