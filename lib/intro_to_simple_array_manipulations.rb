@@ -48,10 +48,7 @@ def using_delete_at(array, interger)
     array.delete(interger)
   end
     
-def using_insert(array, element)
-   array.insert(4)
-end
-  
+
   
   
   
